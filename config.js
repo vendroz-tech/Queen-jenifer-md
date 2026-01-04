@@ -3,7 +3,7 @@ global.owner = ['22606527293@s.whatsapp.net']; // Ton numéro principal
 global.ownerName = "vendroz tech";
 global.botName = "𝐐𝐮𝐞𝐞𝐧 𝐉𝐞𝐧𝐢𝐟𝐞𝐫 𝐌𝐃";
 global.prefix = '.';
-global.SESSION_ID = ''; // Colle ta session ici pour connexion instantanée
+global.SESSION_ID = 'vYsljaLQ#tDfKrXTfR_4BFWOmYY0YXEDu6B0Z95uIZigiyGzw_iM'; // Colle ta session ici pour connexion instantanée
 global.sessionFolder = 'session';
 
 // Images menus (upload ces images sur https://catbox.moe et colle les liens directs ici !)
